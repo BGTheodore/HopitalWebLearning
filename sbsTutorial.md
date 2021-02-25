@@ -26,3 +26,11 @@ Set-ExecutionPolicy Unrestricted
 Get-ExecutionPolicy
 }
 
+SETTING UP ANGULAR
+composer require nelmio/cors-bundle
+npm install -g @angular/cli
+ng new hopitalWeb-client
+(_ is not acceptable)
+
+
+//ng add @ng-bootstrap/ng-bootstrap --project hopitalWeb
